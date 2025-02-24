@@ -3,8 +3,6 @@ home__data-subtitle
 Discover your place
 
 
-
-
 home__data-title
 Explore The <br> Best <b>Beautiful <br> Beaches</b>
 
