@@ -15,6 +15,7 @@ home__info-title
 5 best places to visit
 
 
+
 * ABOUT
 section__title
 More Information <br> About The Best Beaches
