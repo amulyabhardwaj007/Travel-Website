@@ -8,6 +8,7 @@ home__data-title
 Explore The <br> Best <b>Beautiful <br> Beaches</b>
 
 
+
 home__social
 https://www.facebook.com/
 https://www.instagram.com/
